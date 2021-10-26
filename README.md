@@ -1,4 +1,4 @@
-                                                                    ### Hi there, Im Helitha Rupasinghe 👋
+### Hi there, Im Helitha Rupasinghe 👋
 
 Here are some ideas to get you started:
 
