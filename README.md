@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love Pizza 🍕 and chicken🍗.
 
 <!-- GitHub links--> 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hr21don&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hr21don&theme=cobalt)
 
 
 <!--
