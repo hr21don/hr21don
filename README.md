@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: I love Pizza 🍕 and chicken🍗.
 
-![GitHub Stats](https://github-readme-stats.vercel.apihr21don&theme=radical
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hr21don&theme=radical)
 
 <!--
 
