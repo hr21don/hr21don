@@ -16,7 +16,7 @@
 ## GitHub Stats ✈️
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hr21don&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hr21don&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&fire=DD0202)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hr21don&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Languages and Tools 📈
 
