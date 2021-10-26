@@ -18,6 +18,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hr21don&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+<a href="https://github.com/hr21don/github-readme-activity-graph"><img alt="HR's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hr21don&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 ## Languages and Tools 📈
 
 <p align="left"> 
