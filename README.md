@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I love Pizza 🍕 and chicken🍗.
 
 <!-- GitHub links--> 
-## GitHub Stats 
+## GitHub Stats ✈️
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hr21don&theme=tokyonight)
 
 
