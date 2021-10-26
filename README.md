@@ -1,5 +1,7 @@
-### Hi there, Im Helitha Rupasinghe 👋
 
+<h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Im Helitha Rupasinghe 👋</h1>
+
+## 🙋‍♂️ About Me
 - 🔭 I’m currently working on creating my own API for newsletter marketing.
 - 🌱 I’m currently learning NodeJS which is the tool to use for faster back-end development.
 - 👯 I’m looking to collaborate on React.Js.
