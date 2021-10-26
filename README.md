@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="100%" src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif" height="175px"/></a>
 
 <h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Im Helitha Rupasinghe ❤️ </h1>
 
