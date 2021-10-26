@@ -1,4 +1,4 @@
-<a href="https://giphy.com/gifs/SandiaLabs-cyber-security-cybersecurity-RDZo7znAdn2u7sAcWH">via GIPHY</a>
+<a href="#"><img width="100%" height="auto" src="https://giphy.com/gifs/SandiaLabs-cyber-security-cybersecurity-RDZo7znAdn2u7sAcWH"></a>
 
 
 
