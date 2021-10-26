@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Im Helitha Rupasinghe 👋</h1>
+<h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Im Helitha Rupasinghe ❤️ </h1>
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on creating my own API for newsletter marketing.
