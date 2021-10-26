@@ -8,6 +8,9 @@
 - 📫 How to reach me: [Get In Touch](https://helitharupasinghe.com/contact/)
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: I love Pizza 🍕 and chicken🍗.
+
+![GitHub Stats](https://github-readme-stats.vercel.apihr21don&theme=radical
+
 <!--
 
 -->
