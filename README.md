@@ -54,6 +54,10 @@
 <a href="https://codepen.io/hr21don" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hr21don" height="30" width="40" /></a>
 <a href="https://dev.to/hr21don" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hr21don" height="30" width="40" /></a>
 <a href="https://codesandbox.com/hrdevelopment0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hrdevelopment0001" height="30" width="40" /></a>
+<a href="https://dribbble.com/hr21don" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hr21don" height="30" width="40" /></a>
+<a href="https://www.behance.net/hrdevelopment2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hrdevelopment2021" height="30" width="40" /></a>
+<a href="https://hashnode.com/@royal991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@royal991" height="30" width="40" /></a>
+<a href="https://medium.com/hr-development" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hr-development" height="30" width="40" /></a>
 </p>
 
 
