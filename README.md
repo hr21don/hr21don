@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on creating my own API for newsletter marketing.
-- 🌱 I’m currently learning NodeJS which is the tool to use for faster back-end development alongside learning react to devleop the front-end. 
+- 🌱 I’m currently learning NodeJS which is the tool to use for faster back-end development alongside learning react for the front-end. 
 - 👯 I’m looking to collaborate on React.Js projects. 
 - 🤔 I’m looking to contribute to as many React.JS projects as possible. 
 - 💬 Ask me about ... Anything! 
