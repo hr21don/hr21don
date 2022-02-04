@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on React.Js.
 - 🤔 I’m looking for help with React.JS.
 - 💬 Ask me about ... Anything! 
-- 📫 How to reach me: [Get In Touch](https://helitharupasinghe.com/contact/)
+- 📫 How to reach me: [Get In Touch](H_R@helitharupasinghe.com)
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: I love Pizza 🍕 and chicken🍗.
 
