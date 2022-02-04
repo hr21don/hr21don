@@ -48,16 +48,6 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
-
-<h3 align="left">Connect with me:👋🏾</h3>
-<p align="left">
-<a href="https://codepen.io/hr21don" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hr21don" height="30" width="40" /></a>
-<a href="https://dev.to/hr21don" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hr21don" height="30" width="40" /></a>
-<a href="https://codesandbox.com/u/hrdevelopment0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hrdevelopment0001" height="30" width="40" /></a>
-<a href="https://dribbble.com/hr21don" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hr21don" height="30" width="40" /></a>
-<a href="https://www.behance.net/hrdevelopment2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hrdevelopment2021" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Support:💰</h3>
 <p><a href="https://www.buymeacoffee.com/KaidouBo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="KaidouBo" /></a><a href="https://ko-fi.com/kaidouboo"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kaidouboo" /></a></p><br><br>
 <!--
