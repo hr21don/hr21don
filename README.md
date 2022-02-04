@@ -1,12 +1,13 @@
 <a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/fV0oSDsZ4UgdW/giphy.gif" height="50px"/></a>
 
 <h1 align="center">Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Im Helitha Rupasinghe ❤️ </h1>
+<h3 align="center">A passionate frontend developer in the UK</h3>
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on creating my own API for newsletter marketing.
-- 🌱 I’m currently learning NodeJS which is the tool to use for faster back-end development.
-- 👯 I’m looking to collaborate on React.Js.
-- 🤔 I’m looking for help with React.JS.
+- 🌱 I’m currently learning NodeJS which is the tool to use for faster back-end development alongside learning react to devleop the front-end. 
+- 👯 I’m looking to collaborate on React.Js projects. 
+- 🤔 I’m looking to contribute to as many React.JS projects as possible. 
 - 💬 Ask me about ... Anything! 
 - 📫 How to reach me: [Get In Touch](H_R@helitharupasinghe.com)
 - 😄 Pronouns: He/ Him
@@ -46,6 +47,15 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/hr21don" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hr21don" height="30" width="40" /></a>
+<a href="https://dev.to/hr21don" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hr21don" height="30" width="40" /></a>
+<a href="https://codesandbox.com/hrdevelopment0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hrdevelopment0001" height="30" width="40" /></a>
+</p>
+
 
 <!--
 
