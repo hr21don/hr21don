@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on React.Js projects. 
 - 🤔 I’m looking to contribute to as many React.JS projects as possible. 
 - 💬 Ask me about ... Anything! 
-- 📫 How to reach me: [Get In Touch](H_R@helitharupasinghe.com)
+- 📫 How to reach me: [Get In Touch](helithav@googlemail.com)
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: I love Pizza 🍕 and chicken🍗.
 
