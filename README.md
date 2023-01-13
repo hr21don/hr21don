@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me 
 <!--- 🔭 I’m currently working on creating my own API for newsletter marketing.-->
-- 🌱 I’m currently learning the MERN stack which is the tool to use for faster end-to-end development. 
-- 👯 I’m looking to collaborate on React.Js projects. 
-- 🤔 I’m looking to contribute to as many React.JS projects as possible. 
+- 🌱 I’m currently learning how to grow my online business.   
+- 👯 I’m looking to collaborate on open source projects. 
+- 📝 I regularly write articles on [DEV](https://dev.to/hr21don)
 - 💬 Ask me about ... Anything! 
-- 📫 How to reach me: [Get In Touch](h_r@helitharupasinghe.com)
+- 📫 How to reach me: [Get In Touch](providedByGatsby@outlook.com)
 - 😄 Pronouns: He/ Him
 - ⚡ Fun fact: I love Pizza 🍕 and chicken🍗.
 
