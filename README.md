@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me 
 <!--- 🔭 I’m currently working on creating my own API for newsletter marketing.-->
-- 🌱 I’m currently learning how to grow my online business.   
+- 🌱 I’m currently learning  AI App development using Scrimba's course on ChatGPT, Dall-E and GPT-4. 
 - 👯 I’m looking to collaborate on open source projects. 
 - 📝 I regularly write articles on [DEV](https://dev.to/hr21don)
 - 💬 Ask me about ... Anything! 
